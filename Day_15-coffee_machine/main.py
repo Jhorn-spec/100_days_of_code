@@ -1,10 +1,3 @@
-# Program requirement
-# TODO: 1. should be able to print report of the resources the machine has
-# TODO: 2. should be able to check that the resources are sufficient
-# TODO: 3. should be able to process coins
-# TODO: 4. check if the transaction was successful
-# TODO: 5. make coffee
-
 MENU = {
     "espresso": {
         "ingredients": {
